@@ -1,3 +1,7 @@
 thoughts on processes
 
 check comments in format
+
+coding standards
+
+review process, github code checker comments, new line at end of file etc
