@@ -5,3 +5,11 @@ check comments in format
 coding standards
 
 review process, github code checker comments, new line at end of file etc
+
+branching stategy, would the reviewers create the branch for the developer?
+
+work packages
+complexity
+dependancy
+skills required for ech piece of work
+size, spilt by skills/function, benefits of small packages 
