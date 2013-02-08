@@ -1,0 +1,16 @@
+developer
+register development level
+select work package
+assign mentor (automatic?)
+request branch reation when ready to start work (and not months before)
+
+mentor/reviewer
+create branch
+
+developer
+edit files
+commit changes to branch
+
+mentor/reviewer
+pubish reviewed changes in branch or send back for review
+can review comments be added to the files?
